@@ -1,0 +1,1010 @@
+#mainMenu .navbar-nav > li > ul {top: 30px; z-index: 9999 !important;}
+/*.navbar-header .navbar-brand {z-index: -9;}*/
+
+.rsMinW .rsBullets {display: none;}
+.rsMinW .rsArrowRight {right: 80px; top: 50%; bottom: unset; transform: translate(0px, 50%);}
+.rsMinW .rsArrowLeft {left: 7px; top: 50%; bottom: unset; transform: translate(0px, 50%);} 
+
+.rsMinW.rsHor .rsArrowRight .rsArrowIcn {background-position: unset;background: url('../images/right-arrow.png') !important;width: 63px;height: 64px;}
+.rsMinW.rsHor .rsArrowLeft .rsArrowIcn {background-position: unset;background: url('../images/left-arrow.png') !important;width: 63px;height: 64px;}
+blockquote::after {font-size: 42px; color: #5191FA;}
+blockquote::before {font-size: 42px; color: #5191FA;}
+blockquote.text-center p {font-style: italic;font-size: 20px;}
+.more-link {border-radius: 20px;}
+.more-link .img-container.md { border-radius: 20px; width:100%; height: 100% !important;}
+.more-link .more-content {background: transparent;}
+.more-link .img-container.md img.loaded {
+	width: 100% !important;
+	background-position: 50% 50%;
+	object-fit: cover;
+	display: inline-block;
+	left: 0 !important; position: unset !important;
+  height: 100% !important;
+}
+.mob-hotel .moreLink .more-link {
+	border-radius: 20px;
+	height: 250px;
+}
+.booking-search .input-wrapper.form-inline .svg-inline--fa {color: #052951;}
+.price.text-primary {color: #052951;}
+form button.btn.btn-success {background: linear-gradient(320deg, rgba(0, 188, 212, .90), #4766c8, rgba(100, 48, 148, .90));border: 0; border-radius: 25px; padding: 10px 25px;}
+.details-icon {background: #FFF; padding: 20px 20px 15px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);}
+.hotel-detaol-content {background: #FFF;padding: 20px 20px 15px;border-radius: 10px;box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);}
+.details-form {background: #FFF;padding: 20px 20px 15px;border-radius: 10px;box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);}
+aside .widget-title {font-family: "Bw Vivant Medium", sans-serif;font-size: 22px; color: #052951; border-bottom: 1px solid #052951; padding: 0 0 10px 0; margin-bottom: 20px !important;}
+.boxed h3.hotel-name{
+	font-family: "Bw Vivant Medium", sans-serif;
+	font-size: 22px;
+	color: #052951;
+	border-bottom: 1px solid #052951;
+	padding: 0 0 10px 0;
+	margin-bottom: 20px !important;
+}
+.details-form .btn.btn-primary {
+	background: linear-gradient(320deg, rgba(0, 188, 212, .70), #4766c8, rgba(100, 48, 148, .70));
+	border-color: #5191FA;
+	color: #FFF;
+	padding: 7px 20px;
+	border: 0;
+}
+.page-header .col-md-8 h1 {font-family: "Bw Vivant Medium", sans-serif;}
+p.hotel-adress {font-size: 16px;line-height: 29px;}
+.room-type h3 {font-size: 18px;font-family: 'Poppins', Arial, Helvetica, sans-serif;color: #052951;}
+.room-type .price span {font-size: 15px;color: #5191FA;}
+.img-container.thmb-img {border: 1px solid #DDD;border-radius: 4px;}
+.isotopeInner .isotopeContent {min-height: 160px;}
+.isotopeWrapper.loaded .isotopeItem {position: unset !important; /*min-height: 410px;*/}
+/*.isotopeContent h3 {font-family: "Bw Vivant Medium", sans-serif; font-size: 20px;text-transform: unset; text-align: left; line-height:30px;}
+.isotopeInner .isotopeContent h4 {font-size: 16px;min-height: 45px;line-height: 22px;}*/
+.isotopeContent h3 {font-family: "Bw Vivant Medium", sans-serif; font-size: 15px;text-transform: unset; text-align: left; line-height:20px;}
+.isotopeInner .isotopeContent h4 {font-size: 14px;}
+.isotopeContent h4{ text-align:left;}
+.isotopeWrapper.loaded .isotopeItem .isotopeInner .more-link {border-radius: 0;}
+.isotopeWrapper.loaded .isotopeItem .isotopeInner .more-link:hover .more-action {border-radius: 0;}
+.isotopeContent span.btn.btn-primary {background: linear-gradient(320deg, rgba(0, 188, 212, .70), #4766c8, rgba(100, 48, 148, .70));color: #FFF;border: 0;border-radius: 25px;}
+.price.text-primary span {color: #5191FA;}
+#page-10 .booking-result h3 {font-family: "Bw Vivant Medium", sans-serif;font-size: 24px;}
+.contact-formsec {background: #FFF; overflow: hidden; padding: 20px 10px; border-radius: 10px; border: 1px solid #DDD; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);}
+#content .hotBox.contact-address h2 {font-size: 22px;}
+
+.hotBox.contact-address {background: linear-gradient(320deg, rgba(0, 188, 212), #4766c8, rgba(100, 48, 148)); border-radius: 10px;
+border: 2px solid #FFF; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15); padding: 15px 10px; min-height: 280px;}
+#content .hotBox.contact-address h2 {
+	font-size: 22px;
+	border-bottom: 1px solid #FFF;
+	padding-bottom: 5px;
+}
+.hotBox.contact-address {
+	background: linear-gradient(320deg, rgba(0, 188, 212), #4766c8, rgba(100, 48, 148));
+	border-radius: 10px;
+	border: 2px solid #FFF;
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+	padding: 15px 10px;
+	min-height: 400px;
+}
+.hotBox.contact-address address a {color: #FFF;}
+#mapWrapper {display: none;}
+.hotBox.contact-address address {margin: 0;}
+#content .hotBox.contact-address p {margin: 0 0 20px 0;}
+.contact-formsec button.btn.btn-primary {
+	background: linear-gradient(320deg, rgba(0, 188, 212, .70), #4766c8, rgba(100, 48, 148, .70));
+	color: #FFF;
+	border: 0;
+	border-radius: 25px;
+	padding: 10px 30px;
+}
+.btn.btn-success.btn-block.mt10.anchor-toggle {
+	background: linear-gradient(320deg, rgba(0, 188, 212, .70), #4766c8, rgba(100, 48, 148, .70));
+	color: #FFF;
+	border: 0;
+	border-radius: 25px;
+}
+#page-10 .col-md-3 .boxed.mb20 h2 {
+	font-size: 24px;
+	border-bottom: 1px solid #052951;
+	padding: 0 0 10px 0;
+}
+#page-10 .img-container.lazyload.sm {
+	width: 100%;
+	border-radius: 4px;
+	max-height: 60px;
+	border: 1px solid #333;
+	padding: 5px;
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+}
+#page-2 .hotBox.contact-address h2 {
+	font-size: 22px;
+	border-bottom: 1px solid #FFF;
+	padding-bottom: 5px;
+	color: #FFF;
+}
+#page-1 .text-overflow h3 {font-family: "Bw Vivant Medium", sans-serif;font-size: 20px;text-transform: capitalize;line-height: 34px;min-height: 70px;}
+
+#page-1 .more-link .img-container.lazyload.xl {
+	width: 100%;
+	height: 250px;
+}
+.tp-content {
+	background: #FFF;
+	overflow: hidden;
+	margin: 10px;
+	padding: 0 0 10px 0;
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+	border-radius: 10px;
+}
+.tp-content .col-sm-12.mb20 {
+	padding: 0 0;
+}
+.more-link .img-container.lazyload.xl .loaded {
+	width: 100% !important;
+	height: auto !important;
+	left: 0 !important;
+	background-size: cover;
+}
+
+#page-1 .moreLink .col-sm-7 .more-link .img-container.lazyload.xl {
+	height: 390px;
+}
+#page-1 .moreLink .col-sm-5 h3 {
+	min-height: auto;
+	font-size: 32px;
+}
+.mfp-content .white-popup-block {
+	padding: 2px 20px 2px 2px !important;
+}
+#page-11 #content .container {
+	padding: 20px;
+	background: #FFF;
+	border-radius: 10px;
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+#booking-breadcrumb {
+	margin: 0 0 15px auto !important;
+}
+#booking-breadcrumb .breadcrumb-item {
+	padding: 10px 0 !important;
+	border-radius: 10px;
+	display: flex;
+	gap: 10px;
+	align-items: center;
+	justify-content: flex-start;
+	padding: 5px 10px !important;
+}
+#booking-breadcrumb .breadcrumb-item span {
+	margin: 0;
+}
+#booking-breadcrumb .breadcrumb-item svg {
+	width: 30px;
+	height: 30px;
+}
+#page-11 .ajax-form .row {background: #FFF;padding: 20px;}
+#page-11 .ajax-form legend {font-family: "Bw Vivant Medium", sans-serif;font-size: 24px;text-transform: unset;text-align: left;line-height: 38px; color: #052951;}
+#page-11 .ajax-form .row .row.form-group {padding: 0;background: transparent;}
+#page-11 .btn.btn-default.btn-lg.pull-left {margin-top: 20px;}
+#page-11 .btn.btn-primary.btn-lg.pull-right {margin-top: 20px;}
+#activmap-results-num {color: #fff;background: #000 !important;}
+.activmap-place {background: #000; border-bottom: 1px solid #5191FA;}
+
+.activmap-infowindow .activmap-brand { height: 249px; width: 294px; position: absolute; bottom: 0; top: unset; overflow: hidden !important; left: 0;  border-top-left-radius: 6px;
+border-bottom-left-radius: 6px; max-width: 100%;}
+.activmap-infowindow .activmap-brand img {max-height: 100%; width: 100% !important; height: 100%;}
+.activmap-place h3 {color: #fff;font-family: "Bw Vivant Medium", sans-serif;letter-spacing: 1px;}
+.activmap-address::before, .activmap-phone::before, .activmap-url::before {color: #FFF!important; background: #5191FA !important;}
+.activmap-details h4.activmap-title {color: #5191FA; font-family: "Bw Vivant Medium", sans-serif; font-size: 17px;}
+#activmap-places {background: #d4aa0091 !important;}
+
+@media only screen and (max-width: 480px){
+.login-img{display:none;}
+.login-parent-row {
+    display: block;
+}
+.white-popup-block {
+    padding: 0 20px !important;
+}
+.navbar-brand img { background: #FFFFFFE5; border-radius: 50%; padding: 5px; border: 4px solid #FFFFFFB2;}
+#mainMenu .navbar-nav li {text-align: left;}
+.royalSlider .infoBlock {padding: 0 6%;}
+.navbar-header {padding-top: 20px;}
+.white-popup-block { width: 100%;border-radius: 20px;}
+/*.white-popup-block {background: linear-gradient(270deg, rgb(115, 76, 209), rgb(87, 32, 160)); width: 100%;border-radius: 20px;}*/
+.login-form br {display: none;}
+.open-signup-form {color: #FFD148;text-decoration: underline;}
+.login-form .col-sm-7.text-left {text-align: center;}
+.login-form .col-sm-5.text-right {text-align: center;}
+.login-form .btn.btn-default {background: linear-gradient(320deg, rgba(0, 188, 212, .70), #4766c8, rgba(100, 48, 148, .70));border: 1px solid #FFF;margin: 20px 0 0 0; border-radius: 25px;
+color: #FFF; padding: 7px 25px;}
+#secondMenu {top: 34px !important;}
+ul.navbar-nav > li.primary > a.firstLevel {line-height: 40px;}
+.royalSlider .infoBlock h1 {font-size: 22px;letter-spacing: unset; line-height: 30px;}
+.rsMinW .rsArrowLeft {display: none !important;}
+.rsMinW .rsArrowRight {display: none !important;}
+#content h1 {font-size: 20px;line-height: 30px;padding-top: 20px;}
+.price.text-primary {text-align: left;}
+#page-1 #content h2 {font-size: 20px;}
+.more-link .img-container.lazyload.xl {height: 250px;}
+.text-overflow h3 {font-size: 24px;}
+blockquote.text-center p {font-size: 16px;}
+
+.mob-ht-list .col-sm-3.mb20 {width: 49%;float: left;}
+.mob-ht-list .more-link .img-container.md {height: 160px;}
+.mob-ht-list .more-content h3 {top: 25%;font-size: 14px;}
+.mob-ht-list .more-content .more-descr {bottom: 6px;}
+.mob-ht-list small {display: none;}
+.more-content .more-descr .price span {font-size: 10px;}
+.mob-ht-list .more-content .more-descr {font-size: 10px;padding: 6px 0;width: 70%;}
+.more-link .img-container.md img.loaded {left: 0 !important; position: unset !important; height: 100% !important;}
+
+.hotBox {padding: 20px;background: url('../images/activities-bg.jpg') !important;}
+.hotBox .col-sm-3.mb20 {width: 49%;float: left;}
+.hotBox .more-content h3 {top: 25%;font-size: 14px;}
+.hotBox .more-link .img-container.md {border-radius: 20px;width: 100%;height: 160px !important;}
+
+.top-destination .col-sm-4.mb20 {float: left;width: 49%;}
+.top-destination .col-sm-4.mb20 {width: 49%;float: left;}
+.top-destination .more-content h3 {top: 25%;font-size: 14px;}
+.top-destination .img-container.lazyload.md {height: 160px;}
+.top-destination .more-content .more-descr {font-size: 10px;padding: 6px 0;width: 70%;}
+.top-destination small {display: none;}
+.top-destination .more-content .more-descr {font-size: 10px;}
+.top-destination .more-descr .price span {font-size: 10px;}
+
+.more-content .more-descr .price span {font-size: 10px;}
+.mob-ht-list .more-content .more-descr {font-size: 10px;padding: 6px 0;width: 70%;}
+#mainFooter .widget {margin-bottom: 30px;}
+.page-header {padding: 40px 0 15px !important;}
+.navbar-brand {position: absolute; left: 53px; top: 10px;}
+.navbar-toggle {float: left !important;}
+#mainFooter {display: none;}
+footer {display: none;}
+#footerRights p {text-align: center;}
+.page-header h1, .page-header p.h1 {font-size: 22px;}
+/*#page-9 .isotopeWrapper all-hotel-list loaded .isotopeItem {width: 100%;}*/
+
+#page-9 .all-hotel-list .col-sm-4.isotopeItem {width: 49%;float: left;}
+
+#page-9 .all-hotel-list .col-sm-4.isotopeItem .more-link .img-container.md {
+	border-radius: 20px;
+	width: 100%;
+	height: 450px;
+}
+.all-hotel-list .more-link.img-container.md {
+	height: 160px;
+}
+.all-hotel-list .more-link.img-container.md .loaded {
+	position: unset !important;
+	height: 100% !important;
+}
+.all-hotel-list .isotopeContent {
+	padding: 10px;
+}
+.all-hotel-list .isotopeContent h4 {
+	display: none;
+}
+.all-hotel-list .isotopeContent .row .col-xs-6 {
+	width: 100%;
+	text-align: left;
+}
+.isotopeContent h3 {
+	font-size: 16px;
+	text-align: left;
+	margin: 0 0 5px 0;
+}
+
+.all-hotel-list .isotopeContent span.btn.btn-primary {
+	padding: 5px 0px;
+	display: inline-block;
+	width: 100%;
+}
+.hotBox.contact-address {min-height: auto;margin-top: 20px;}
+#content h2 {font-size: 24px;}
+#page-10 .booking-result h3 {font-size: 20px;}
+#page-16 .isotopeItem {width: 100%;}
+.isotopeContent h4 {text-align: left;}
+#page-18 .isotopeItem {width: 100%;}
+
+}
+
+/* ========================================
+   HOTEL CARDS SECTION - Compact Design
+   ======================================== */
+
+/* Hotel Card Container */
+.hotel-cards-container {
+    margin-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Column Wrapper - Equal Heights */
+.hotel-cards-container > [class*='col-'] {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+/* Hotel Card - Compact Height */
+.hotel-card {
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.hotel-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.12);
+    border-color: #337ab7;
+}
+
+/* ========================================
+   IMAGE SECTION - Reduced Height
+   ======================================== */
+
+.hotel-card-img-wrapper {
+    position: relative;
+    overflow: hidden;
+    height: 180px;
+    background: #f5f5f5;
+    flex-shrink: 0;
+}
+
+.hotel-card-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease;
+}
+
+.hotel-card:hover .hotel-card-img {
+    transform: scale(1.08);
+}
+
+/* Image Overlay */
+.hotel-card-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.25);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.hotel-card:hover .hotel-card-overlay {
+    opacity: 1;
+}
+
+.hotel-view-icon {
+    color: #fff;
+    font-size: 28px;
+    transform: scale(0.8);
+    transition: transform 0.3s ease;
+}
+
+.hotel-card:hover .hotel-view-icon {
+    transform: scale(1);
+}
+
+/* ========================================
+   CARD BODY - Single Column Compact
+   ======================================== */
+
+.hotel-card-body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.hotel-info-section {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+/* ========================================
+   CONTENT ELEMENTS
+   ======================================== */
+
+/* Card Title - Limited to 2 Lines with Ellipsis */
+.hotel-card-title {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0 0 6px 0;
+    color: #333;
+    line-height: 1.3;
+    transition: color 0.3s ease;
+    
+    /* Multi-line ellipsis - 2 lines max */
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-height: 2.6em; /* 2 lines * line-height (1.3) = 2.6em */
+}
+
+.hotel-card:hover .hotel-card-title {
+    color: #337ab7;
+}
+
+/* Card Subtitle - Compact */
+.hotel-card-subtitle {
+    font-size: 12px;
+    color: #888;
+    margin: 0 0 12px 0;
+    line-height: 1.4;
+}
+
+/* Price Wrapper - Below Subtitle */
+.hotel-card-price-wrapper {
+    margin-bottom: 12px;
+}
+
+.hotel-card-price {
+    margin-bottom: 3px;
+}
+
+.price-label {
+    font-size: 11px;
+    color: #999;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 2px;
+}
+
+.price-amount {
+    font-size: 20px;
+    font-weight: 700;
+    color: #2ecc71;
+    display: block;
+}
+
+.price-unit {
+    font-size: 10px;
+    color: #aaa;
+    display: block;
+    margin-top: 2px;
+}
+
+/* ========================================
+   FOOTER - Read More Link
+   ======================================== */
+
+.hotel-card-footer {
+    margin-top: auto;
+    text-align: right;
+    padding-top: 8px;
+    border-top: 1px solid #f0f0f0;
+}
+
+.hotel-readmore-link {
+    color: #337ab7;
+    font-size: 13px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    display: inline-block;
+}
+
+.hotel-readmore-link:hover {
+    color: #23527c;
+    text-decoration: none;
+    transform: translateX(3px);
+}
+
+.hotel-readmore-link:focus {
+    text-decoration: none;
+    outline: none;
+}
+
+.hotel-readmore-link i {
+    margin-left: 4px;
+    transition: margin-left 0.3s ease;
+}
+
+.hotel-readmore-link:hover i {
+    margin-left: 8px;
+}
+
+/* ========================================
+   RESPONSIVE DESIGN
+   ======================================== */
+
+/* Tablet */
+@media (max-width: 991px) {
+    .hotel-card-img-wrapper {
+        height: 160px;
+    }
+    
+    .hotel-card-title {
+        font-size: 15px;
+        max-height: 2.6em; /* Maintain 2 lines */
+    }
+    
+    .price-amount {
+        font-size: 18px;
+    }
+}
+
+/* Mobile */
+@media (max-width: 767px) {
+    .hotel-card-img-wrapper {
+        height: 200px;
+    }
+    
+    .hotel-info-section {
+        padding: 12px;
+    }
+    
+    .hotel-card-title {
+        font-size: 15px;
+        max-height: 2.6em; /* Maintain 2 lines */
+    }
+    
+    .price-amount {
+        font-size: 19px;
+    }
+}
+
+/* Small Mobile */
+@media (max-width: 480px) {
+    .hotel-card-img-wrapper {
+        height: 180px;
+    }
+    
+    .hotel-info-section {
+        padding: 10px;
+    }
+    
+    .hotel-card-title {
+        font-size: 14px;
+        max-height: 2.6em; /* Maintain 2 lines */
+    }
+    
+    .hotel-card-subtitle {
+        font-size: 11px;
+    }
+    
+    .price-amount {
+        font-size: 18px;
+    }
+}
+
+/* ========================================
+   UTILITIES
+   ======================================== */
+
+#activmap-results-num {padding: 0px;}
+
+
+/* ===========================
+   MAXIMUM CLARITY HOTEL CARD
+   =========================== */
+
+.activmap-place {
+    display: flex !important;
+    align-items: stretch !important;
+    padding: 0 !important;
+    margin: 0 0 5px 0 !important;
+    cursor: pointer !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    background: #fff !important;
+    border: 1px solid #ddd !important;
+    border-radius: 8px !important;
+    overflow: hidden !important;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1) !important;
+    height: 130px !important;
+    position: relative !important;
+}
+
+.activmap-place:hover,
+.activmap-place.active {
+    box-shadow: 0 4px 15px rgba(0,0,0,0.12) !important;
+    transform: translateY(-2px) !important;
+    border-color: #4a90e2 !important;
+}
+
+/* ===========================
+   IMAGE SECTION - LEFT (28%)
+   =========================== */
+
+.activmap-place .activmap-brand {
+    width: 28% !important;
+    min-width: 28% !important;
+    max-width: 28% !important;
+    height: 130px !important;
+    position: relative !important;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
+    overflow: hidden !important;
+    flex-shrink: 0 !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.activmap-place .activmap-brand img {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    transition: transform 0.4s ease !important;
+}
+
+.activmap-place:hover .activmap-brand img {
+    transform: scale(1.08) !important;
+}
+
+/* Placeholder icon */
+.activmap-place .activmap-brand:empty::before {
+    content: '\f1ad' !important;
+    font-family: "Font Awesome 5 Free" !important;
+    font-weight: 900 !important;
+    font-size: 44px !important;
+    color: rgba(255, 255, 255, 0.4) !important;
+}
+
+/* ===========================
+   CONTENT SECTION - RIGHT (72%)
+   =========================== */
+
+.activmap-place .activmap-details {
+    flex: 1 !important;
+    width: 72% !important;
+    max-width: 72% !important;
+    padding: 14px 16px !important;
+    margin: 0 !important;
+    background: #fff !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: space-between !important;
+    overflow: hidden !important;
+    min-width: 0 !important;
+}
+
+/* ===========================
+   TITLE - HOTEL NAME (BIG & BOLD)
+   =========================== */
+
+.activmap-place .activmap-title,
+.activmap-place h3 {
+    font-size: 17px !important;
+    font-weight: 800 !important;
+    color: #0d0d0d !important;
+    margin: 0 0 8px 0 !important;
+    line-height: 1.2 !important;
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    padding: 0 !important;
+    letter-spacing: -0.3px !important;
+}
+
+.activmap-place h3::before {
+    display: none !important;
+}
+
+.activmap-place h3 a {
+    color: #0d0d0d !important;
+    text-decoration: none !important;
+}
+
+.activmap-place:hover .activmap-title,
+.activmap-place:hover h3,
+.activmap-place:hover h3 a {
+    color: #4a90e2 !important;
+}
+
+/* ===========================
+   ADDRESS - CLEAR & VISIBLE
+   =========================== */
+
+.activmap-place .activmap-address {
+    font-size: 13px !important;
+    color: #333 !important;
+    font-weight: 500 !important;
+    margin: 0 0 auto 0 !important;
+    padding-left: 20px !important;
+    position: relative !important;
+    line-height: 1.4 !important;
+    display: -webkit-box !important;
+    -webkit-line-clamp: 2 !important;
+    -webkit-box-orient: vertical !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+}
+
+.activmap-place .activmap-address::before {
+    content: '\f3c5' !important;
+    font-family: "Font Awesome 5 Free" !important;
+    font-weight: 900 !important;
+    position: absolute !important;
+    left: 0 !important;
+    top: 2px !important;
+    font-size: 13px !important;
+    color: #4a90e2 !important;
+    width: 16px !important;
+    text-align: center !important;
+}
+
+/* ===========================
+   PRICE - PROMINENT
+   =========================== */
+
+.activmap-place .activmap-custom {
+    margin: -4px 0px;
+    padding: 3px 4px !important;
+    background: linear-gradient(135deg, #e8f4ff 0%, #d6ebff 100%) !important;
+    border-radius: 6px !important;
+    border-left: 4px solid #4a90e2 !important;
+    font-size: 12px !important;
+    color: #0d0d0d !important;
+    display: inline-block !important;
+    align-self: flex-start !important;
+    white-space: nowrap !important;
+    font-weight: 500 !important;
+}
+
+.activmap-place .activmap-custom b {
+    font-size: 9px !important;
+    color: #555 !important;
+    text-transform: uppercase !important;
+    font-weight: 700 !important;
+    margin-right: 4px !important;
+    letter-spacing: 0.5px !important;
+}
+
+.activmap-place .activmap-custom big,
+.activmap-place .activmap-custom a big {
+    font-size: 17px !important;
+    font-weight: 800 !important;
+    color: #4a90e2 !important;
+    margin: 0 2px !important;
+}
+
+.activmap-place .activmap-custom a {
+    color: #4a90e2 !important;
+    text-decoration: none !important;
+}
+
+/* ===========================
+   HIDE ELEMENTS
+   =========================== */
+
+.activmap-place .activmap-phone,
+.activmap-place .activmap-url {
+    display: none !important;
+}
+
+/* ===========================
+   HOVER EFFECTS
+   =========================== */
+
+.activmap-place .activmap-brand::after {
+  
+    font-family: "Font Awesome 5 Free" !important;
+    font-weight: 900 !important;
+    position: absolute !important;
+    bottom: 10px !important;
+    right: 10px !important;
+    width: 36px !important;
+    height: 36px !important;
+    background: rgba(74, 144, 226, 0.95) !important;
+    color: #fff !important;
+    border-radius: 50% !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    font-size: 14px !important;
+    opacity: 0 !important;
+    transition: opacity 0.3s ease !important;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.25) !important;
+    z-index: 10 !important;
+}
+
+.activmap-place:hover .activmap-brand::after {
+    opacity: 1 !important;
+}
+
+/* ===========================
+   RESPONSIVE - TABLET
+   =========================== */
+
+@media (max-width: 992px) {
+    .activmap-place {
+        height: 125px !important;
+    }
+    
+    .activmap-place .activmap-brand {
+        width: 30% !important;
+        min-width: 30% !important;
+        max-width: 30% !important;
+        height: 125px !important;
+    }
+    
+    .activmap-place .activmap-details {
+        width: 70% !important;
+        max-width: 70% !important;
+        padding: 13px 14px !important;
+    }
+    
+    .activmap-place .activmap-title,
+    .activmap-place h3 {
+        font-size: 16px !important;
+    }
+    
+    .activmap-place .activmap-address {
+        font-size: 12px !important;
+    }
+    
+    .activmap-place .activmap-custom {
+        font-size: 11px !important;
+        padding: 6px 10px !important;
+    }
+    
+    .activmap-place .activmap-custom big {
+        font-size: 15px !important;
+    }
+}
+
+/* ===========================
+   RESPONSIVE - MOBILE
+   =========================== */
+
+@media (max-width: 768px) {
+    .activmap-place {
+        height: 115px !important;
+    }
+    
+    .activmap-place .activmap-brand {
+        width: 35% !important;
+        min-width: 35% !important;
+        max-width: 35% !important;
+        height: 115px !important;
+    }
+    
+    .activmap-place .activmap-details {
+        width: 65% !important;
+        max-width: 65% !important;
+        padding: 11px 12px !important;
+    }
+    
+    .activmap-place .activmap-title,
+    .activmap-place h3 {
+        font-size: 15px !important;
+        margin-bottom: 6px !important;
+    }
+    
+    .activmap-place .activmap-address {
+        font-size: 11px !important;
+        -webkit-line-clamp: 1 !important;
+        padding-left: 18px !important;
+    }
+    
+    .activmap-place .activmap-custom {
+        font-size: 10px !important;
+        padding: 5px 9px !important;
+        margin-top: 6px !important;
+    }
+    
+    .activmap-place .activmap-custom big {
+        font-size: 14px !important;
+    }
+}
+
+/* ===========================
+   RESPONSIVE - SMALL MOBILE
+   =========================== */
+
+@media (max-width: 480px) {
+    .activmap-place {
+        height: 110px !important;
+    }
+    
+    .activmap-place .activmap-brand {
+        width: 40% !important;
+        min-width: 40% !important;
+        max-width: 40% !important;
+        height: 110px !important;
+    }
+    
+    .activmap-place .activmap-details {
+        width: 60% !important;
+        max-width: 60% !important;
+        padding: 10px 11px !important;
+    }
+    
+    .activmap-place .activmap-title,
+    .activmap-place h3 {
+        font-size: 14px !important;
+        margin-bottom: 5px !important;
+    }
+    
+    .activmap-place .activmap-address {
+        font-size: 10px !important;
+        padding-left: 16px !important;
+    }
+    
+    .activmap-place .activmap-custom {
+        font-size: 9px !important;
+        padding: 4px 8px !important;
+    }
+}
+
+/*==== Gallery Listing ====*/
+.text-overflow h3 {
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    line-height: 1.4;
+    min-height: 50px;
+    /* Truncate after ~150 characters (approx 2-3 lines) */
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* Adjust based on font size - 3 lines ≈ 150 chars */
+    -webkit-box-orient: vertical;
+    word-wrap: break-word;
+}
+
+.coupon-card {
+    background: #fff;
+    border: 1px solid #e5e5e5;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+    transition: all 0.3s ease;
+}
+.coupon-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+.coupon-header {
+    background: linear-gradient(320deg, rgba(0, 188, 212), #4766c8, rgba(100, 48, 148));
+    color: #fff;
+    padding: 12px 15px;
+    border-radius: 10px 10px 0 0;
+}
+.coupon-header h4{
+    color:#fff;
+}
+.coupon-body {
+    padding: 15px;
+    font-size: 14px;
+}
+.coupon-body strong {
+    color: #333;
+}
+.coupon-footer {
+    background: #f9f9f9;
+    padding: 10px;
+    border-top: 1px solid #eee;
+    border-radius: 0 0 10px 10px;
+}
+.coupon-code {
+    background: #5cb85c;
+    color: #fff;
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-weight: bold;
+    display: inline-block;
+}
+.coupon-section h3 {
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.coupon-footer small {
+    font-size: 85%;
+    color: #ff9075;
+    font-weight: 800;
+}
+
